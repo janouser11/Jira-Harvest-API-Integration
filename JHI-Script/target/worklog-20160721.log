@@ -1,0 +1,599 @@
+4238 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+4257 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+4258 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+4259 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+4262 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+4262 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+5735 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+5735 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+5735 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+5735 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+5735 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+5735 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+5797 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+5816 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+5817 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+5817 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+5818 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+5818 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+5818 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+5818 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+5819 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7723 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+7723 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+7723 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+7724 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+7724 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+7724 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+7780 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Ali Garcia did not contain the right syntax to post to Jira worklog
+7781 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Ali Garcia did not contain the right syntax to post to Jira worklog
+7781 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Ali Garcia did not contain the right syntax to post to Jira worklog
+9678 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+9678 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+9678 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+9679 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+9679 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+9679 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+9717 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9718 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9718 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9719 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9719 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9720 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9720 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9720 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9720 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9721 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9721 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9721 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9721 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+5376 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+5395 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+5396 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+5396 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+5400 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+5400 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+7367 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+7368 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+7368 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+7368 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+7368 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+7368 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+7449 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7451 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7451 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7452 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7453 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7453 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7454 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7454 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7455 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+8638 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+8638 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+8638 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+8639 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+8639 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+8639 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+8700 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Ali Garcia did not contain the right syntax to post to Jira worklog
+8700 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Ali Garcia did not contain the right syntax to post to Jira worklog
+8701 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Ali Garcia did not contain the right syntax to post to Jira worklog
+9541 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+9541 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+9541 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+9541 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+9542 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+9542 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+9587 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9587 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9588 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9588 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9588 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9589 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9589 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9589 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9590 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9590 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9590 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9590 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+9591 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Amy Bergmann did not contain the right syntax to post to Jira worklog
+10287 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+10287 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+10287 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+10287 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+10287 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+10288 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+11807 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+11807 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+11808 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+11808 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+11808 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+11808 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+11843 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Arthur Supsiri did not contain the right syntax to post to Jira worklog
+11843 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Arthur Supsiri did not contain the right syntax to post to Jira worklog
+11844 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Arthur Supsiri did not contain the right syntax to post to Jira worklog
+11844 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Arthur Supsiri did not contain the right syntax to post to Jira worklog
+11844 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Arthur Supsiri did not contain the right syntax to post to Jira worklog
+11845 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Arthur Supsiri did not contain the right syntax to post to Jira worklog
+11845 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Arthur Supsiri did not contain the right syntax to post to Jira worklog
+13176 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+13176 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+13176 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+13177 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+13177 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+13177 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+13222 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Brandon Carson did not contain the right syntax to post to Jira worklog
+13913 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+13914 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+13914 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+13914 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+13914 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+13914 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+16366 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+16367 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+16367 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+16367 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+16367 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+16367 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+16433 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Bruce Robinson did not contain the right syntax to post to Jira worklog
+16434 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Bruce Robinson did not contain the right syntax to post to Jira worklog
+17476 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+17477 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+17477 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+17477 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+17477 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+17477 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+18334 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+18334 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+18334 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+18334 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+18334 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+18334 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+18368 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Christine Mitchell did not contain the right syntax to post to Jira worklog
+18369 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Christine Mitchell did not contain the right syntax to post to Jira worklog
+20280 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+20281 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+20281 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+20281 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+20281 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+20281 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+23330 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+23331 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+23331 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+23331 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+23331 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+23331 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+25371 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+25371 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+25371 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+25371 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+25372 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+25372 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+25406 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Dimelsa Amaro did not contain the right syntax to post to Jira worklog
+25406 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Dimelsa Amaro did not contain the right syntax to post to Jira worklog
+25406 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Dimelsa Amaro did not contain the right syntax to post to Jira worklog
+25407 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Dimelsa Amaro did not contain the right syntax to post to Jira worklog
+25407 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Dimelsa Amaro did not contain the right syntax to post to Jira worklog
+25408 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Dimelsa Amaro did not contain the right syntax to post to Jira worklog
+25408 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Dimelsa Amaro did not contain the right syntax to post to Jira worklog
+27420 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+27420 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+27421 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+27421 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+27421 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+27421 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+28646 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+28646 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+28646 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+28646 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+28646 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+28646 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+28687 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Elizabeth Reid did not contain the right syntax to post to Jira worklog
+28687 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Elizabeth Reid did not contain the right syntax to post to Jira worklog
+28791 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Elizabeth Reid did not contain the right syntax to post to Jira worklog
+28792 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Elizabeth Reid did not contain the right syntax to post to Jira worklog
+28829 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Elizabeth Reid did not contain the right syntax to post to Jira worklog
+28829 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Elizabeth Reid did not contain the right syntax to post to Jira worklog
+28830 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Elizabeth Reid did not contain the right syntax to post to Jira worklog
+30281 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+30281 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+30282 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+30282 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+30282 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+30282 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+32334 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+32334 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+32335 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+32335 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+32335 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+32335 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+33413 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+33413 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+33413 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+33413 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+33413 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+33414 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+35407 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+35407 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+35407 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+35407 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+35407 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+35408 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+37353 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+37354 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+37354 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+37354 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+37354 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+37354 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+37394 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Hippo Resource did not contain the right syntax to post to Jira worklog
+37395 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Hippo Resource did not contain the right syntax to post to Jira worklog
+38542 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+38542 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+38542 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+38542 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+38542 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+38542 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+38580 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Isaac Truett did not contain the right syntax to post to Jira worklog
+38581 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Isaac Truett did not contain the right syntax to post to Jira worklog
+38581 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Isaac Truett did not contain the right syntax to post to Jira worklog
+38581 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Isaac Truett did not contain the right syntax to post to Jira worklog
+38582 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Isaac Truett did not contain the right syntax to post to Jira worklog
+38582 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Isaac Truett did not contain the right syntax to post to Jira worklog
+38583 [main] DEBUG JHI_Script.JHI_Script.App - Comment is null for: Isaac Truett
+38583 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Isaac Truett did not contain the right syntax to post to Jira worklog
+38583 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Isaac Truett did not contain the right syntax to post to Jira worklog
+38584 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Isaac Truett did not contain the right syntax to post to Jira worklog
+38584 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Isaac Truett did not contain the right syntax to post to Jira worklog
+38584 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Isaac Truett did not contain the right syntax to post to Jira worklog
+40282 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+40282 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+40282 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+40282 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+40282 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+40282 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+42370 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+42370 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+42370 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+42370 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+42370 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+42370 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+43337 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+43337 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+43337 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+43337 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+43337 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+43337 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+45339 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+45339 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+45339 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+45339 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+45339 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+45339 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+46643 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+46643 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+46643 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+46644 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+46644 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+46644 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+48254 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+48254 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+48254 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+48254 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+48254 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+48255 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+50281 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+50281 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+50281 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+50281 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+50281 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+50281 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+51317 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+51317 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+51317 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+51317 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+51318 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+51318 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+51349 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Laura Samper did not contain the right syntax to post to Jira worklog
+51350 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Laura Samper did not contain the right syntax to post to Jira worklog
+51350 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Laura Samper did not contain the right syntax to post to Jira worklog
+51350 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Laura Samper did not contain the right syntax to post to Jira worklog
+53429 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+53429 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+53429 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+53429 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+53429 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+53429 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+55373 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+55374 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+55374 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+55374 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+55374 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+55374 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+56141 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+56141 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+56141 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+56141 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+56142 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+56142 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+57079 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+57079 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+57079 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+57079 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+57079 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+57079 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+57107 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Mary Anne Quinlan did not contain the right syntax to post to Jira worklog
+57107 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Mary Anne Quinlan did not contain the right syntax to post to Jira worklog
+57108 [main] DEBUG JHI_Script.JHI_Script.App - Comment is null for: Mary Anne Quinlan
+57108 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Mary Anne Quinlan did not contain the right syntax to post to Jira worklog
+57108 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Mary Anne Quinlan did not contain the right syntax to post to Jira worklog
+57109 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Mary Anne Quinlan did not contain the right syntax to post to Jira worklog
+57109 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Mary Anne Quinlan did not contain the right syntax to post to Jira worklog
+57109 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Mary Anne Quinlan did not contain the right syntax to post to Jira worklog
+57109 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Mary Anne Quinlan did not contain the right syntax to post to Jira worklog
+57109 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Mary Anne Quinlan did not contain the right syntax to post to Jira worklog
+57109 [main] DEBUG JHI_Script.JHI_Script.App - Comment is null for: Mary Anne Quinlan
+57110 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Mary Anne Quinlan did not contain the right syntax to post to Jira worklog
+57110 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Mary Anne Quinlan did not contain the right syntax to post to Jira worklog
+57110 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Mary Anne Quinlan did not contain the right syntax to post to Jira worklog
+57110 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Mary Anne Quinlan did not contain the right syntax to post to Jira worklog
+57110 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Mary Anne Quinlan did not contain the right syntax to post to Jira worklog
+58377 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+58377 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+58377 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+58378 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+58378 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+58378 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+58414 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Matt Zeiger did not contain the right syntax to post to Jira worklog
+58414 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Matt Zeiger did not contain the right syntax to post to Jira worklog
+58414 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Matt Zeiger did not contain the right syntax to post to Jira worklog
+60289 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+60289 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+60289 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+60289 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+60290 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+60290 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+60332 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Maura Boyle did not contain the right syntax to post to Jira worklog
+60332 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Maura Boyle did not contain the right syntax to post to Jira worklog
+60333 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Maura Boyle did not contain the right syntax to post to Jira worklog
+60333 [main] DEBUG JHI_Script.JHI_Script.App - Comment is null for: Maura Boyle
+60333 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Maura Boyle did not contain the right syntax to post to Jira worklog
+60333 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Maura Boyle did not contain the right syntax to post to Jira worklog
+62439 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+62440 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+62440 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+62440 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+62440 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+62440 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+63665 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+63666 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+63666 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+63666 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+63666 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+63666 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+64732 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+64732 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+64732 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+64732 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+64732 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+64732 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+64760 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Pepe Miyashiro did not contain the right syntax to post to Jira worklog
+64760 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Pepe Miyashiro did not contain the right syntax to post to Jira worklog
+64760 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Pepe Miyashiro did not contain the right syntax to post to Jira worklog
+64761 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Pepe Miyashiro did not contain the right syntax to post to Jira worklog
+64761 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Pepe Miyashiro did not contain the right syntax to post to Jira worklog
+64761 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Pepe Miyashiro did not contain the right syntax to post to Jira worklog
+64762 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Pepe Miyashiro did not contain the right syntax to post to Jira worklog
+64762 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Pepe Miyashiro did not contain the right syntax to post to Jira worklog
+64762 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Pepe Miyashiro did not contain the right syntax to post to Jira worklog
+64762 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Pepe Miyashiro did not contain the right syntax to post to Jira worklog
+64762 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Pepe Miyashiro did not contain the right syntax to post to Jira worklog
+64763 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Pepe Miyashiro did not contain the right syntax to post to Jira worklog
+64763 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Pepe Miyashiro did not contain the right syntax to post to Jira worklog
+64763 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Pepe Miyashiro did not contain the right syntax to post to Jira worklog
+66433 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+66433 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+66433 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+66433 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+66433 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+66433 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+68378 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+68379 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+68379 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+68379 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+68379 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+68379 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+68884 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+68884 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+68884 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+68884 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+68884 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+68884 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+68920 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Rachel Gaddis did not contain the right syntax to post to Jira worklog
+68920 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Rachel Gaddis did not contain the right syntax to post to Jira worklog
+68920 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Rachel Gaddis did not contain the right syntax to post to Jira worklog
+68920 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Rachel Gaddis did not contain the right syntax to post to Jira worklog
+68921 [main] DEBUG JHI_Script.JHI_Script.App - Comment is null for: Rachel Gaddis
+68921 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Rachel Gaddis did not contain the right syntax to post to Jira worklog
+68921 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Rachel Gaddis did not contain the right syntax to post to Jira worklog
+70281 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+70281 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+70281 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+70281 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+70281 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+70282 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+72373 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+72373 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+72373 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+72373 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+72374 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+72374 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+72410 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Rafael Taboada did not contain the right syntax to post to Jira worklog
+72411 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Rafael Taboada did not contain the right syntax to post to Jira worklog
+72411 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Rafael Taboada did not contain the right syntax to post to Jira worklog
+72411 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Rafael Taboada did not contain the right syntax to post to Jira worklog
+72411 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Rafael Taboada did not contain the right syntax to post to Jira worklog
+72412 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Rafael Taboada did not contain the right syntax to post to Jira worklog
+72412 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Rafael Taboada did not contain the right syntax to post to Jira worklog
+73610 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+73611 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+73611 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+73611 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+73611 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+73611 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+73646 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Rahul Tapadiya did not contain the right syntax to post to Jira worklog
+75444 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+75444 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+75444 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+75444 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+75444 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+75444 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+77390 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+77390 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+77390 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+77391 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+77391 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+77391 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+78633 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+78634 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+78634 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+78634 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+78634 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+78634 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+78661 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Robertson Odom did not contain the right syntax to post to Jira worklog
+78661 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Robertson Odom did not contain the right syntax to post to Jira worklog
+78661 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Robertson Odom did not contain the right syntax to post to Jira worklog
+78662 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Robertson Odom did not contain the right syntax to post to Jira worklog
+78662 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Robertson Odom did not contain the right syntax to post to Jira worklog
+78662 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Robertson Odom did not contain the right syntax to post to Jira worklog
+78663 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Robertson Odom did not contain the right syntax to post to Jira worklog
+79977 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+79977 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+79977 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+79977 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+79977 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+79977 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+80475 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+80475 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+80475 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+80475 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+80476 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+80476 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+83166 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+83166 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+83166 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+83166 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+83166 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+83166 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+83701 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+83701 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+83701 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+83701 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+83701 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+83702 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+83728 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Taylor Horak did not contain the right syntax to post to Jira worklog
+83729 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Taylor Horak did not contain the right syntax to post to Jira worklog
+83729 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Taylor Horak did not contain the right syntax to post to Jira worklog
+83729 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Taylor Horak did not contain the right syntax to post to Jira worklog
+83730 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Taylor Horak did not contain the right syntax to post to Jira worklog
+83730 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Taylor Horak did not contain the right syntax to post to Jira worklog
+83730 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Taylor Horak did not contain the right syntax to post to Jira worklog
+83730 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Taylor Horak did not contain the right syntax to post to Jira worklog
+83730 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Taylor Horak did not contain the right syntax to post to Jira worklog
+83731 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Taylor Horak did not contain the right syntax to post to Jira worklog
+83731 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Taylor Horak did not contain the right syntax to post to Jira worklog
+83731 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Taylor Horak did not contain the right syntax to post to Jira worklog
+83731 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Taylor Horak did not contain the right syntax to post to Jira worklog
+83731 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Taylor Horak did not contain the right syntax to post to Jira worklog
+83731 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Taylor Horak did not contain the right syntax to post to Jira worklog
+83731 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Taylor Horak did not contain the right syntax to post to Jira worklog
+83732 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Taylor Horak did not contain the right syntax to post to Jira worklog
+85377 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+85377 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+85377 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+85377 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+85377 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+85377 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+87426 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+87426 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+87426 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+87426 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+87426 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+87426 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+88285 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+88285 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+88285 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+88285 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+88285 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+88285 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+90281 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+90281 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+90281 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+90281 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+90281 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+90281 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+92442 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+92443 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+92443 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+92443 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+92443 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+92443 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+93596 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+93596 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+93596 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+93596 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+93596 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+93596 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+96436 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+96457 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+96457 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+96457 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+96457 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+96457 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+98383 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+98383 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+98383 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+98383 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+98383 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+98383 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+98420 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Yeremy Seminario did not contain the right syntax to post to Jira worklog
+98439 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Yeremy Seminario did not contain the right syntax to post to Jira worklog
+98439 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Yeremy Seminario did not contain the right syntax to post to Jira worklog
+99061 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+99062 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+99062 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+99062 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+99062 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+99062 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+5239 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+5329 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+5330 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+5330 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+5334 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+5334 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+7834 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+7834 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+7834 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+7834 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+7834 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+7834 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+7900 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7901 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7901 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7902 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7902 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7903 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7903 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7903 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7903 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7904 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7904 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+7904 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Alexis Rengifo did not contain the right syntax to post to Jira worklog
+8400 [main] INFO  com.lesstif.jira.JIRAHTTPClient - Using default Configuration
+8400 [main] DEBUG o.a.c.c.PropertiesConfiguration - FileName set to jira-rest-client.properties
+8400 [main] DEBUG o.a.c.c.ConfigurationUtils - ConfigurationUtils.locate(): base is null, name is jira-rest-client.properties
+8400 [main] DEBUG o.a.c.c.DefaultFileSystem - Could not locate file jira-rest-client.properties at null: no protocol: jira-rest-client.properties
+8401 [main] DEBUG o.a.c.c.ConfigurationUtils - Loading configuration from the context classpath (jira-rest-client.properties)
+8401 [main] DEBUG o.a.c.c.PropertiesConfiguration - Base path set to file:///Users/user/Documents/workspace/JHI-Script/target/classes/jira-rest-client.properties
+8457 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Ali Garcia did not contain the right syntax to post to Jira worklog
+8458 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Ali Garcia did not contain the right syntax to post to Jira worklog
+8468 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Ali Garcia did not contain the right syntax to post to Jira worklog
+8469 [main] DEBUG JHI_Script.JHI_Script.App - Comment written by: Ali Garcia did not contain the right syntax to post to Jira worklog
